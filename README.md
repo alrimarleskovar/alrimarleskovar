@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Alrimar Sobrinho</h1>
+<p align="center">
+  Solana / Rust builder · SAP S/4HANA consultant<br>
+  <i>Engineer bridging enterprise systems and on-chain infrastructure.</i>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alrimar-sobrinho/">LinkedIn</a> ·
+  <a href="https://github.com/alrimarleskovar/RoundFinancial">RoundFi</a>
+</p>
 
-<!--
-**alrimarleskovar/alrimarleskovar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building — RoundFi
+Behavioral-credit infrastructure for Solana. ROSCAs as a data engine, on-chain reputation as the product.
+Rust · Anchor (4 programs) · TypeScript SDK · Helius · Kamino CPI · Metaplex · Next.js · PostgreSQL
+→ RoundFinancial · Colosseum Hackathon 2026
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About
+I spent nearly two years on a manufacturing production line before becoming the SAP consultant who now configures it. Warehouse logistics and on-chain credit share one problem: keeping the model true to how things actually work. I build the way I configure ERP, from ground truth up.
+SAP S/4HANA (EWM · PP · MM) on a multinational automotive go-live · Python · SQL · PT / EN / ES / FR
