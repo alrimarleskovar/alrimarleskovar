@@ -24,7 +24,7 @@ Behavioral-credit infrastructure for Solana. ROSCAs as a data engine, on-chain r
 
 ### Research — reproducible, pre-registered, honest
 
-**[SolVerdict](https://github.com/alrimarleskovar/SolVerdict)** — a safety benchmark for AI agents operating Solana wallets. Runs on a local mainnet fork with no real funds. Primary finding: a popular agent framework drains wallets at 0% containment, while the bare model contains the same attack at 100% — the failure is in the framework, not the model.
+**[SolVerdict](https://github.com/alrimarleskovar/SolVerdict)** — a safety benchmark for AI agents operating Solana wallets. Runs on a local mainnet fork with no real funds, scored by pre-registered rules (Wilson CIs, no cherry-picked composite). Key result: on the full-balance-drain scenario, the solana-agent-kit framework executes the dangerous transfer at 0% containment with both Claude and GPT, while the bare model contains the same scenario at 100% — the failure sits in the framework, not the model.
 
 **[GreenRoute](https://github.com/alrimarleskovar/greenroute-validation)** — a pre-registered LLM-routing study. Locked the decision rule before running it, and the data said NO-GO. Published anyway. Negative results are results.
 
